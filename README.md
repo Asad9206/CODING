@@ -48,6 +48,7 @@ My daily coding journey
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Asad9206/CODING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asad9206/CODING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My daily coding journey
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asad9206/CODING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,12 +70,18 @@ My daily coding journey
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Asad9206/CODING/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Asad9206/CODING/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asad9206/CODING/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
