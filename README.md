@@ -46,6 +46,7 @@ My daily coding journey
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asad9206/CODING/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Asad9206/CODING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Asad9206/CODING/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Asad9206/CODING/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@ My daily coding journey
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Asad9206/CODING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Asad9206/CODING/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
