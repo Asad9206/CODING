@@ -6,6 +6,7 @@ My daily coding journey
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Asad9206/CODING/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Asad9206/CODING/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Asad9206/CODING/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Asad9206/CODING/tree/master/3875-construct-uniform-parity-array-i) |
@@ -106,4 +107,8 @@ My daily coding journey
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Asad9206/CODING/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Asad9206/CODING/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
