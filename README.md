@@ -9,12 +9,14 @@ My daily coding journey
 | [1401-circle-and-rectangle-overlapping](https://github.com/Asad9206/CODING/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Asad9206/CODING/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Asad9206/CODING/tree/master/2029-stone-game-ix) |
+| [3524-find-x-value-of-array-i](https://github.com/Asad9206/CODING/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Asad9206/CODING/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Asad9206/CODING/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/Asad9206/CODING/tree/master/1510-stone-game-iv) |
+| [3524-find-x-value-of-array-i](https://github.com/Asad9206/CODING/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
 | ------- |
@@ -47,6 +49,7 @@ My daily coding journey
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Asad9206/CODING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asad9206/CODING/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Asad9206/CODING/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Asad9206/CODING/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Asad9206/CODING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Asad9206/CODING/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Asad9206/CODING/tree/master/3903-smallest-stable-index-i) |
