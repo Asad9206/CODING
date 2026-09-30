@@ -73,6 +73,7 @@ My daily coding journey
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Asad9206/CODING/tree/master/0940-distinct-subsequences-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asad9206/CODING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -128,4 +129,12 @@ My daily coding journey
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asad9206/CODING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
