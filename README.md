@@ -72,6 +72,7 @@ My daily coding journey
 ## String
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Asad9206/CODING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Asad9206/CODING/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asad9206/CODING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -88,6 +89,7 @@ My daily coding journey
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Asad9206/CODING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2029-stone-game-ix](https://github.com/Asad9206/CODING/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -132,9 +134,11 @@ My daily coding journey
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Asad9206/CODING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Asad9206/CODING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
