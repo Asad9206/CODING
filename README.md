@@ -72,6 +72,7 @@ My daily coding journey
 ## String
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Asad9206/CODING/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Asad9206/CODING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Asad9206/CODING/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -141,4 +142,12 @@ My daily coding journey
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Asad9206/CODING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Asad9206/CODING/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Asad9206/CODING/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
