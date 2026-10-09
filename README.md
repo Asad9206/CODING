@@ -75,6 +75,7 @@ My daily coding journey
 | [0301-remove-invalid-parentheses](https://github.com/Asad9206/CODING/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Asad9206/CODING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Asad9206/CODING/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Asad9206/CODING/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asad9206/CODING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -136,11 +137,13 @@ My daily coding journey
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Asad9206/CODING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Asad9206/CODING/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Asad9206/CODING/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Asad9206/CODING/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Asad9206/CODING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
