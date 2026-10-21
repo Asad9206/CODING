@@ -90,6 +90,7 @@ My daily coding journey
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asad9206/CODING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asad9206/CODING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Asad9206/CODING/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
