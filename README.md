@@ -48,6 +48,7 @@ My daily coding journey
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Asad9206/CODING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asad9206/CODING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/Asad9206/CODING/tree/master/2029-stone-game-ix) |
@@ -127,6 +128,7 @@ My daily coding journey
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Asad9206/CODING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Asad9206/CODING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
@@ -174,6 +176,7 @@ My daily coding journey
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Asad9206/CODING/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -206,4 +209,12 @@ My daily coding journey
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Asad9206/CODING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
