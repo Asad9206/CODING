@@ -51,6 +51,7 @@ My daily coding journey
 | [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Asad9206/CODING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asad9206/CODING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1882-process-tasks-using-servers](https://github.com/Asad9206/CODING/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/Asad9206/CODING/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Asad9206/CODING/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Asad9206/CODING/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -184,6 +185,7 @@ My daily coding journey
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Asad9206/CODING/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Asad9206/CODING/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
