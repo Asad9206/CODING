@@ -49,6 +49,7 @@ My daily coding journey
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Asad9206/CODING/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Asad9206/CODING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Asad9206/CODING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1882-process-tasks-using-servers](https://github.com/Asad9206/CODING/tree/master/1882-process-tasks-using-servers) |
@@ -119,6 +120,7 @@ My daily coding journey
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Asad9206/CODING/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Asad9206/CODING/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Asad9206/CODING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
@@ -134,6 +136,7 @@ My daily coding journey
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Asad9206/CODING/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Asad9206/CODING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Asad9206/CODING/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
@@ -182,6 +185,7 @@ My daily coding journey
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Asad9206/CODING/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Asad9206/CODING/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -219,8 +223,10 @@ My daily coding journey
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Asad9206/CODING/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Asad9206/CODING/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Asad9206/CODING/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
