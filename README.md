@@ -11,6 +11,7 @@ My daily coding journey
 | [1510-stone-game-iv](https://github.com/Asad9206/CODING/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Asad9206/CODING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2029-stone-game-ix](https://github.com/Asad9206/CODING/tree/master/2029-stone-game-ix) |
+| [3360-stone-removal-game](https://github.com/Asad9206/CODING/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Asad9206/CODING/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/Asad9206/CODING/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Asad9206/CODING/tree/master/3525-find-x-value-of-array-ii) |
@@ -143,6 +144,7 @@ My daily coding journey
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Asad9206/CODING/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Asad9206/CODING/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asad9206/CODING/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Asad9206/CODING/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
